@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Nirjhor
                 </div>
 
                 <div class="links">
